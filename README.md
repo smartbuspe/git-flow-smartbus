@@ -16,3 +16,8 @@ hacer fork del repositorio hacia sus cuentas personales.
 ## Creación de Fork
 Para crear un fork debes iniciar sesion en GitHub y luego ingresar al landing  
 page del proyecto del que quieras obtener el fork.
+
+## Como trabajar con 2 o mas remotos
+Listar remotos: `git remote -v`  
+Agregar remotos: `git remote add smartbus https://github.com/smartbuspe/git-flow-smartbus.git`  
+Eliminar remotos: `git remote remove smartbus`

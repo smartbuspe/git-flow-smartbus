@@ -12,3 +12,7 @@ hacer fork del repositorio hacia sus cuentas personales.
 3. Clic en Organizations (menu izquierdo)
 4. Clic en New Organization
 5. Elegir plan y llenas datos
+
+## Creación de Fork
+Para crear un fork debes iniciar sesion en GitHub y luego ingresar al landing  
+page del proyecto del que quieras obtener el fork.
